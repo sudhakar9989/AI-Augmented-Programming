@@ -1,2 +1,28 @@
-# AI-Augmented-Programming
-AI-Augmented Programming is the process of using AI tools and models to assist software developers in the software development lifecycle. This isn't meant to replace the engineer, but it does help to augment developer productivity through boilerplate code generation, real-time bug detection, code refactoring, and intelligent code completion.
+# AI-Augmented Programming
+- This repository will contain some of the most frequently used algorithms for AI. 
+- 
+Machine Learning Algorithms 🤖
+  -  [Scaled Dot Product Attention](ScaledDotProduct.py) from 'Attention Is All You Need' by Vaswani et al.
+  -  [K-means clustering](KMeansClustering.py)
+  -  [KNN](KNN.py)
+  -  [Gradient Descent](GradientDescent.py)
+  -  [Cross Entropy loss](CrossEntropy.py)
+  -  [Contrastive Loss](ContrastiveLoss.py)
+  -  [Dropout](Dropout.py)
+
+ Metrics 📈
+  -  [Precision and Recall](PrecisionRecall.py)
+  -  [AUC - ROC Curve](AUC_ROC.py)
+  -  [Intersection Over Union](IOU.py)
+  -  [Multi-class Precision, Recall F1](MultiClass.py)
+
+ Architecture 🗼
+ - [ConvNet](Convnet.py)
+
+Related to ML 📓
+  -  [Dot product of two sparse vectors](SparseVectors.py)
+  -  [Find local minima in an array](LocalMinima.py)
+  -  [Does Matrix have equal diagonals](MatrixDiagonal.py)
+  -  [Print medians of matrix in sliding window](SlidingWindowMedian.py)
+  -  [Serialize Sparse Matrix](SerializeSparseMatrix.py)
+  -  [Missing Data in DataSet](MissingData.py)
