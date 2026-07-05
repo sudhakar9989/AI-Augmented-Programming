@@ -2,7 +2,7 @@
 - This repository will contain some of the most frequently used algorithms for AI. 
 - 
 Machine Learning Algorithms 🤖
-  -  [Scaled Dot Product Attention](ScaledDotProduct.py) from 'Attention Is All You Need' by Vaswani et al.
+  -  [Scaled Dot Product Attention](ScaledDotProduct.py) from 'Attention Is All You Need'.
   -  [K-means clustering](KMeansClustering.py)
   -  [KNN](KNN.py)
   -  [Gradient Descent](GradientDescent.py)
